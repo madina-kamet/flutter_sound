@@ -27,7 +27,7 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/collection-1.17.2",
+      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/collection-1.18.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -41,11 +41,11 @@
       "name": "flutter",
       "rootUri": "file:///Users/galix/development/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "flutter_sound_platform_interface",
-      "rootUri": "file:///Users/galix/.pub-cache/git/flutter_sound-f7ce91c81bbb313e84bf488b499953612c47e6b6/flutter_sound_platform_interface",
+      "rootUri": "file:///Users/galix/.pub-cache/git/flutter_sound-b2a3bb16191f8db12bef092c4e4bec5e377862ae/flutter_sound_platform_interface",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -53,19 +53,31 @@
       "name": "flutter_test",
       "rootUri": "file:///Users/galix/development/flutter/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "flutter_web_plugins",
       "rootUri": "file:///Users/galix/development/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "js",
       "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/js-0.6.7",
       "packageUri": "lib/",
       "languageVersion": "2.19"
+    },
+    {
+      "name": "leak_tracker",
+      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/leak_tracker-9.0.16",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "leak_tracker_testing",
+      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/leak_tracker_testing-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
     },
     {
       "name": "logger",
@@ -81,13 +93,13 @@
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/material_color_utilities-0.5.0",
+      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/material_color_utilities-0.8.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/meta-1.9.1",
+      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/meta-1.11.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -113,7 +125,7 @@
       "name": "sky_engine",
       "rootUri": "file:///Users/galix/development/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "source_span",
@@ -123,15 +135,15 @@
     },
     {
       "name": "stack_trace",
-      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/stack_trace-1.11.0",
+      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/stack_trace-1.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "stream_channel",
-      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/stream_channel-2.1.1",
+      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/stream_channel-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.19"
     },
     {
       "name": "string_scanner",
@@ -147,9 +159,9 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/test_api-0.6.0",
+      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/test_api-0.6.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     },
     {
       "name": "vector_math",
@@ -158,10 +170,16 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "web",
-      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/web-0.1.4-beta",
+      "name": "vm_service",
+      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/vm_service-13.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "web",
+      "rootUri": "file:///Users/galix/.pub-cache/hosted/pub.dev/web-0.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
     },
     {
       "name": "flutter_sound_web",
@@ -170,7 +188,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-12-05T05:08:28.011627Z",
+  "generated": "2023-12-18T08:39:33.202172Z",
   "generator": "pub",
-  "generatorVersion": "3.1.5"
+  "generatorVersion": "3.3.0-174.3.beta"
 }

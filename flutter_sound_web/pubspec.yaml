@@ -32,7 +32,7 @@ dependencies:
   flutter_sound_platform_interface: 
     git:
       url: https://github.com/madina-kamet/flutter_sound.git
-      ref: master
+      ref: v2
       path: flutter_sound_platform_interface
     # path: ../flutter_sound_platform_interface # Flutter Sound Dir
   flutter:
